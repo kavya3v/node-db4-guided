@@ -5,12 +5,12 @@
 		"start": "node index"
 	},
 	"devDependencies": {
-		"nodemon": "^2.0.4"
+		"nodemon": "^2.0.6"
 	},
 	"dependencies": {
 		"express": "^4.17.1",
-		"helmet": "^4.1.0",
-		"knex": "^0.21.5",
+		"helmet": "^4.2.0",
+		"knex": "^0.21.12",
 		"sqlite3": "^5.0.0"
 	}
 }
